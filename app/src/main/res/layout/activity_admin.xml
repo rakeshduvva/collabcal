@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".AdminActivity">
+
+    <!-- Button to send notification -->
+    <Button
+        android:id="@+id/buttonUpdateNotification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update Exam/Event Notifications"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Button to schedule notification -->
+    <Button
+        android:id="@+id/buttonScheduleNotification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Schedule Notification"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Button to manage notification templates or configurations -->
+    <Button
+        android:id="@+id/buttonManageTemplates"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Manage Templates"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginBottom="16dp"/>
+
+
+
+    <!-- Add more UI elements for notification management as needed -->
+
+</LinearLayout>

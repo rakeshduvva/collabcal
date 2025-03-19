@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993088052536",
+    "project_id": "appcal-ad332",
+    "storage_bucket": "appcal-ad332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993088052536:android:d2fb3727adbc24a128f5cd",
+        "android_client_info": {
+          "package_name": "com.example.appcal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0sVnteu6s5oOqaUPQFw9bY6ZbsRyHtxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
